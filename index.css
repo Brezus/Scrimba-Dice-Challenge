@@ -13,13 +13,10 @@ body {
 }
 
 body {
-  padding-top: 20px;
-  padding-bottom: 20px;
   background-image: url("imgs/blue-dice-bg.png");
   background-size: cover;
   background-position: top center;
   font-family: "Roboto", sans-serif;
-  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -30,7 +27,6 @@ body {
   width: 100%;
   position: absolute;
   top: 20rem;
-  min-height: 100vh;
   display: grid;
   place-items: center;
 }
