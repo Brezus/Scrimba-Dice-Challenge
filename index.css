@@ -26,7 +26,7 @@ body {
   display: flex;
   width: 100%;
   position: absolute;
-  top: 20rem;
+  top: 50%;
   display: grid;
   place-items: center;
 }
@@ -69,9 +69,10 @@ button {
 #resetBtn {
   display: none;
 }
-
+.btn-cont {
+  width: 100%;
+}
 .dice-game-body {
-  max-width: 734px;
   /* height: 100%; */
   text-align: center;
   margin: 0 auto;
