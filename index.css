@@ -21,6 +21,7 @@ body {
   justify-content: center;
   align-items: center;
   color: whitesmoke;
+  min-height: 100vh;
 }
 .start-btn-cont {
   display: flex;
@@ -93,7 +94,7 @@ button {
 }
 
 .players {
-  width: 100%;
+  width: 500px;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
