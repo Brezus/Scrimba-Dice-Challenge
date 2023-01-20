@@ -10,6 +10,7 @@ body {
   --color-5: #ff8b94;
   margin: 0;
   padding: 0;
+  scroll-behavior: smooth;
 }
 
 body {
